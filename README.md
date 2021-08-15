@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fblaze02
+- 👀 I’m interested in coding, computers and drawing.
+- 🌱 I’m currently learning Coding in python.
+- 📫 Reach me via Discord; Huni#0576
